@@ -1,0 +1,27 @@
+nav{
+	background-color: #2B579A
+}
+
+body{
+	background-color: #2B579A
+}
+
+.waves-effect.waves-blue-word .waves-ripple {
+    background-color: rgba(43,87,154, 0.65);
+}
+
+.enjoyhint_close_btn{
+	display: none !important;
+}
+
+.tabs .tab a{
+	color: #2B579A;
+}
+
+.tabs .indicator{
+	background-color: #2B579A;
+}
+
+.tabs .tab a:hover{
+	color: rgba(43, 87, 154, 0.50);
+}
